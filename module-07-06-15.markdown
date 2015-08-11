@@ -96,7 +96,7 @@ Student-Led Sessions:
 * Kyle Henson
 * Josh Cass
 * Margarett Ly
-* Drew Reynolds
+* Drew Reynolds - Rails Helpers To Help You When You Need Help
 * Jai Misra
 * Justin Holzmann - "The Big Pond Effect"
 * Lev Kravinsky - Concurrency in Ruby
